@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a61e0856-97d3-4521-9908-bbf48a4633c5" name="Default Changelist" comment="" />
+    <list default="true" id="a61e0856-97d3-4521-9908-bbf48a4633c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fifth_fleet/jagras/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,6 +30,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1bFB92DhFsFkD1BybG6vLlZXrIM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -63,17 +74,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588217805420</updated>
-      <workItem from="1588217808866" duration="1000" />
+      <workItem from="1588217808866" duration="204000" />
+      <workItem from="1588218078873" duration="36000" />
     </task>
+    <task id="LOCAL-00001" summary="t1">
+      <created>1588217864944</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588217864944</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="t1" />
+    <option name="LAST_COMMIT_MESSAGE" value="t1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="457" y="110" key="CommitChangelistDialog2" timestamp="1588217864136">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="457" y="110" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588217864136" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1588217820189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588217820189" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1588217906252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588217906252" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588218082483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1588218082483" />
   </component>
 </project>
